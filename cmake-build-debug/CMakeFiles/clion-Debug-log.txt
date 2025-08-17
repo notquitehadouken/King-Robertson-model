@@ -1,11 +1,4 @@
 "C:\Program Files\JetBrains\CLion 2024.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Ian King\CLionProjects\KingRobertsonModel" -B "C:\Users\Ian King\CLionProjects\KingRobertsonModel\cmake-build-debug"
--- The Fortran compiler identification is unknown
-CMake Error at CMakeLists.txt:2 (project):
-  No CMAKE_Fortran_COMPILER could be found.
-
-  Tell CMake where to find the compiler by setting either the environment
-  variable "FC" or the CMake cache entry CMAKE_Fortran_COMPILER to the full
-  path to the compiler, or to the compiler name if it is in the PATH.
-
-
--- Configuring incomplete, errors occurred!
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Ian King/CLionProjects/KingRobertsonModel/cmake-build-debug

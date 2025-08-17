@@ -1,0 +1,3 @@
+C:/Users/Ian King/CLionProjects/KingRobertsonModel/cmake-build-debug/CMakeFiles/KingRobertsonModel.dir
+C:/Users/Ian King/CLionProjects/KingRobertsonModel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ian King/CLionProjects/KingRobertsonModel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
